@@ -1,0 +1,8 @@
+//Auth
+export const SET_AUTHENTICATED = "SET_AUTHENTICATED";
+export const SET_UNAUTHENTICATED = "SET_UNAUTHENTICATED";
+export const SET_IS_LOADING = "SET_IS_LOADING";
+export const CATCH_ERRORS = "CATCH_ERRORS";
+
+//user
+export const GET_USER_DETAILS = "GET_USER_DETAILS";
