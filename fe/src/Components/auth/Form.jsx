@@ -53,7 +53,7 @@ const Form = ({ loginUser, errors, isLoading, history }) => {
           <img src="/images/input-icon.png" alt="field icon" />
           <input
             name="password"
-            type="text"
+            type="password"
             placeholder="Password"
             value={password}
             onChange={handleInput}
