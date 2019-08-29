@@ -67,7 +67,8 @@
   margin-top: 2rem;
 }
 
-.inputGroup input[type="text"] {
+.inputGroup input[type="text"],
+input[type="password"] {
   padding: 1.4rem 0.5rem;
   padding-left: 4.5rem;
   border-radius: 2.5rem;
